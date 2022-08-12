@@ -1,4 +1,4 @@
-# Javascript Recursion | Koseksi 
+# Javascript Recursion |  Mr Yenagandula
 
 ### Recursion In Detail
 - The main intention of recursion in javascript to avoid more logic and Recursion is a
